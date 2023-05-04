@@ -1,8 +1,10 @@
 ---
-title: "plots-ggplot"
+title: "Creating graphs in R with 'ggplot2'"
 author: "Steven Bryan"
-date: "2023-04-27"
+date: "2023-05-04"
 output: html_document
 ---
 
+# Plots with ggplot2
 
+We are going to make plots in R and it's going to be amazing.
